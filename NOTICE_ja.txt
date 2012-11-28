@@ -1,0 +1,6 @@
+=========================================
+Samurai Smartphone Services 
+Samurai Purchase Sample Application
+=========================================
+
+これは株式会社コニットが提供するSamurai Purchaseを利用したサンプルアプリです。

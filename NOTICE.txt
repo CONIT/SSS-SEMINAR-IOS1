@@ -1,0 +1,6 @@
+=========================================
+Samurai Smartphone Services 
+Samurai Purchase Sample Application
+=========================================
+
+This is a Sample Application that uses the Samurai Purchase provided CONIT Co., Ltd.
